@@ -10,5 +10,5 @@ There are 2 ways to access this site \(Same information synced on both\)..
 
 1: Novices: GitBooks.com: [https://app.gitbook.com/@symbiotical/s/home](https://app.gitbook.com/@symbiotical/s/home) 
 
-2.Advanced: GitHub.com: [https://github.com/Symbiotical/home](https://github.com/Symbiotical/home)
+2.Advanced: GitHub.com: [https://github.com/Symbiotical/home](https://github.com/Symbiotical/home) then SUMMARY.md
 
