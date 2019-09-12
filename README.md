@@ -1,2 +1,2 @@
-# Home 2
+# Home
 
