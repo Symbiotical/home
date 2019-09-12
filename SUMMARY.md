@@ -3,6 +3,7 @@
 * [README](README.md)
 * [Home](home.md)
 * [FAQ's](faqs.md)
+* [Life Tools](life-tools.md)
 
 ## Global
 

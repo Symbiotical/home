@@ -2,7 +2,7 @@
 
 Welcome to Symbiotical.io where the public \(anyone\) can help the public with factual information that will assist us all in our every day lives. 
 
-If you have just been through an experience e.g. legal, built a house, got lost, purchased, learnt anything in general and would like to save others from the same amount of time and $ wasted.
+If you have just been through an experience e.g. legal, purchased or built a house,  travel experience, request for tourists, have correct process knowledge \(lypersons terms\) or learnt anything in general and would like to save others from the same amount of time and $ wasted.
 
 Feel free to add your learning here. It's is 100% free of charge \(just create or use your GitHub or Google account to sign in. This is a community lead \(self-help\) site.
 
