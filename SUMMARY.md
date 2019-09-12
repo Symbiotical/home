@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Home](README.md)
+* [README](README.md)
+* [Home](home.md)
 * [FAQ's](faqs.md)
 
 ## Global
