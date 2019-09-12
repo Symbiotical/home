@@ -1,3 +1,2 @@
-# home
+# Initial page
 
-#Test
