@@ -7,7 +7,7 @@
 
 ## Global
 
-* [Public Transport](global/public-transport-global.md)
+* [Global-Public\_Transport](global/public-transport-global.md)
 
 ## Australia
 
