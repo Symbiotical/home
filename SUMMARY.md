@@ -9,6 +9,7 @@
 
 ## Australia
 
+* [Contacts](australia/contacts.md)
 * [Public Transport](australia/public-transport.md)
 * [Events](australia/events.md)
 
