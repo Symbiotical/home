@@ -9,10 +9,6 @@
 
 * [Global\_Sotware](global/global_sotware/README.md)
   * [Software\_Daily](global/global_sotware/untitled.md)
-  * [Open\_Source \(Free\)](global/global_sotware/open_source-free.md)
-  * [Proprietary \($\)](global/global_sotware/proprietary-usd/README.md)
-    * [Privacy](global/global_sotware/proprietary-usd/privacy.md)
-  * [Global\_Software\_Every\_Day\_Tools](global/global_sotware/global_software_every_day_tools.md)
 * [Global\_Public\_Transport](global/global_public_transport.md)
 
 ## Australia
